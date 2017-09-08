@@ -1,5 +1,5 @@
 function bonjour(nom) {
-  console.log('Bonjour, ${nom}!')
+  console.log('${nom}')
 }
 
 bonjour('Baasandorj')
