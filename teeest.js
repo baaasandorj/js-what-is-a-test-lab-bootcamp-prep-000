@@ -1,5 +1,5 @@
-function sayHelloTo(firstName) {
-  console.log(`Hello, ${firstName}!`)
+function bonjour(nom) {
+  console.log('Bonjour, ${nom}!')
 }
 
 sayHelloTo('Baasandorj')
